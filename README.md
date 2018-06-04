@@ -4,7 +4,7 @@
 Semester 1 2018 Labs - Matlab
 
 ## Labs
-* Lab 1 - Morphological image processing operations - Counting number of objects present
+* Lab 1 - Morphological image processing operations
 * Lab 2 - Hybrid Images using low and high pass filiters
 * Lab 3 - Spatial Filetering and GUI Programming
 * Lab 4 - Using Hough Transforms to locate circles 
